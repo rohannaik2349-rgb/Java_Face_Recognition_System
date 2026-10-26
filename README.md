@@ -1,4 +1,4 @@
-# Face_Recognition_System
+# Java_Face_Recognition_System
 A java-based face recognition system that detect faces and identifies individuals by comparing facial features.
 
 This project is a Face Recognition system developed using java. it detects human faces from images or camera feed and attempts to identify individuals by comparing facial features.
